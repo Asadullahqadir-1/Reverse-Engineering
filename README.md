@@ -1,3 +1,8 @@
+﻿> [!NOTE]
+> **Personal mirror / study copy** maintained at [Asadullahqadir-1/Reverse-Engineering](https://github.com/Asadullahqadir-1/Reverse-Engineering).
+> This repository is based on the upstream project **[morluto/rea](https://github.com/morluto/rea)** (REA: Reverse Engineer Anything), licensed under MIT.
+> For official installs, releases, and support, use [morluto/rea](https://github.com/morluto/rea), [rea.tools](https://rea.tools/), or the [rea-agents](https://www.npmjs.com/package/rea-agents) npm package.
+
 <div align="center">
 
 **English** · [简体中文](docs/readme/README_zh.md) · [繁體中文](docs/readme/README_zh-TW.md) · [日本語](docs/readme/README_ja.md) · [한국어](docs/readme/README_ko.md) · [Türkçe](docs/readme/README_tr.md) · [Русский](docs/readme/README_ru.md) · [Tiếng Việt](docs/readme/README_vi.md) · [ไทย](docs/readme/README_th.md) · [Deutsch](docs/readme/README_de.md) · [Español](docs/readme/README_es.md) · [Français](docs/readme/README_fr.md) · [Українська](docs/readme/README_uk.md) · [Polski](docs/readme/README_pl.md) · [Português (Brasil)](docs/readme/README_pt-BR.md) · [العربية](docs/readme/README_ar.md) · [فارسی](docs/readme/README_fa.md) · [Bahasa Indonesia](docs/readme/README_id.md) · [Italiano](docs/readme/README_it.md)
